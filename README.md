@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sounak
-- 👀 I’m interested in C++,JavaScript and Web Development
+- 👀 I’m interested in Python,JavaScrpit and Web Dev and Data Science
 - 🌱 I’m currently pursuiting BCA and looking forward to MCA
 - 📫 You can reach me at sounakchakraborty371@gmail.com
 
