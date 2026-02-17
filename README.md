@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # Hey there! 👋 I'm **Sounak Chakraborty**
 
@@ -157,4 +157,3 @@
 ![](https://komarev.com/ghpvc/?username=krypton-arch&style=for-the-badge&color=6C63FF)
 
 </div>
-]]>
