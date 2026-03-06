@@ -133,16 +133,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=krypton-arch&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ### ✍️ Random Dev Quote
 <div align="center">
 
