@@ -2,8 +2,9 @@
 
 # Hey there! 👋 I'm **Sounak Chakraborty**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%40+Christ+University;Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Smart+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%40+Christ+University;Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Intelligent+Web+Applications)](https://git.io/typing-svg)
 
+<a href="https://sounakdev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%236C63FF.svg?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sounak-chakraborty-6a39a311a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sounakchakraborty371@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/krypton-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -15,10 +16,11 @@
 ## 🧑‍💻 About Me
 
 🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)  
-🎯 Detail-oriented developer with strong foundations in **software development**, **data structures**, and **web technologies**  
-🔭 Currently building **full-stack AI-powered apps** with Spring Boot & React  
-🌱 Exploring **Machine Learning**, **Deep Learning**, and Python's ecosystem  
-🤝 Open to collaborating on **ML/DL** and **full-stack web** projects  
+🎯 Detail-oriented developer with strong foundations in **software development**, **system design**, and **web technologies**  
+🔭 Currently building **full-stack AI-powered apps** and **intelligent distributed systems**  
+🌱 Exploring **Machine Learning**, **Deep Learning**, and real-time systems  
+🤝 Open to collaborating on **ML/DL**, **full-stack web**, and **distributed systems** projects  
+🌐 Portfolio: [sounakdev.netlify.app](https://sounakdev.netlify.app/)
 
 ---
 
@@ -28,27 +30,28 @@
 <tr>
 <td width="50%">
 
-### 💪 Fitoholic — AI-Powered Fitness Tracker
-> A production-ready fitness tracking web app built for Indian users
+### 🛡️ Gatekeeper — Intelligent Adaptive API Gateway
+> High-performance, self-healing API gateway with ML-based anomaly detection
 
-- **Stack:** Spring Boot (Java 21) · React 18 · Tailwind CSS · MySQL 8
-- 🔐 JWT authentication with role-based admin control
-- 💳 Razorpay payment integration for premium access
-- 🤖 "Fitto" — AI fitness advisor powered by **Google Gemini API**
-- 📊 Real-time tracking with animated charts via Framer Motion
-- 🛡️ Admin dashboard with user monitoring & stats overview
+- **Stack:** Node.js · Express · React 19 · MongoDB · Redis · Socket.io · Docker
+- ⚡ Adaptive Redis-backed rate limiting (token bucket) & automated DDoS protection
+- 🔁 Three-state circuit breaker (CLOSED / OPEN / HALF-OPEN) with weighted round-robin load balancing
+- 🤖 ML anomaly detection via **Linear Regression** to flag suspicious traffic patterns
+- 📊 Real-time React dashboard with **Socket.io** WebSocket streaming for live traffic & alerts
+- 🔐 JWT sessions, SHA-256-hashed API keys, Helmet.js, CORS, and role-based admin access
 
 </td>
 <td width="50%">
 
-### 🎓 College Event Management System
-> Responsive platform to manage college events end-to-end
+### 💪 Fitoholic — AI-Powered Fitness Tracker
+> Production-ready fitness tracking web app built for Indian users
 
-- **Stack:** HTML · CSS · JavaScript · Fetch API
-- 📋 Event listing, secure registration & dynamic sorting
-- ⚡ Improved event efficiency by **40%** & engagement by **25%**
-- ♿ Enhanced accessibility by **70%** via semantic HTML & ARIA
-- ✅ **95%** feature coverage with **100%** on-time delivery
+- **Stack:** Spring Boot (Java 21) · React 18 · Tailwind CSS · MySQL 8
+- 🔐 JWT authentication with password reset, premium access gating & role-based admin control
+- 💳 **Razorpay API** integration for seamless one-time payments
+- 🤖 "Fitto" — AI fitness advisor powered by **Google Gemini API**
+- 📊 Real-time tracking of Steps, Calories, Water Intake & Weight with Framer Motion charts
+- 🛡️ Admin dashboard with user monitoring, stats overview & read-only fitness log access
 
 </td>
 </tr>
@@ -69,39 +72,33 @@
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React_18-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+![React](https://img.shields.io/badge/React_18%2F19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Databases & ORMs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-### ML / Data Science
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+### API Integrations
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
