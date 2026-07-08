@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)
-🎯 Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**
-🔭 Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**
-🌱 Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems
-🤝 Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects
+🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)  
+🎯 Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**  
+🔭 Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**  
+🌱 Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems  
+🤝 Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects  
 🌐 Portfolio: [sounakdev.netlify.app](https://sounakdev.netlify.app/)
 
 ---
@@ -55,10 +55,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
-
 ### 💪 Fitoholic — AI-Powered Fitness Tracker
 > Full-stack fitness tracking web app built for Indian users
 
@@ -67,13 +63,6 @@
 - 💳 **Razorpay API** integration for seamless payment processing
 - 🤖 AI-powered fitness recommendations via **Google Gemini API**
 - 📊 Real-time tracking of steps, calories, water intake & weight with Framer Motion visualizations
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
 
 ---
 
