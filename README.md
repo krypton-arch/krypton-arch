@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm **Sounak Chakraborty**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%40+Christ+University;Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Intelligent+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%40+Christ+University;Full-Stack+%26+Backend+Developer;RAG+%2F+AI+%26+ML+Enthusiast;Building+Scalable+Intelligent+Systems)](https://git.io/typing-svg)
 
 <a href="https://sounakdev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%236C63FF.svg?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/sounak-chakraborty-6a39a311a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)  
-🎯 Detail-oriented developer with strong foundations in **software development**, **system design**, and **web technologies**  
-🔭 Currently building **full-stack AI-powered apps** and **intelligent distributed systems**  
-🌱 Exploring **Machine Learning**, **Deep Learning**, and real-time systems  
-🤝 Open to collaborating on **ML/DL**, **full-stack web**, and **distributed systems** projects  
+🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)
+🎯 Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**
+🔭 Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**
+🌱 Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems
+🤝 Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects
 🌐 Portfolio: [sounakdev.netlify.app](https://sounakdev.netlify.app/)
 
 ---
@@ -30,28 +30,46 @@
 <tr>
 <td width="50%">
 
-### 🛡️ Gatekeeper — Intelligent Adaptive API Gateway
-> High-performance, self-healing API gateway with ML-based anomaly detection
+### 🔍 RepoSage — Scale-Safe Repository Intelligence System
+> Private, offline codebase Q&A search engine for large repositories
 
-- **Stack:** Node.js · Express · React 19 · MongoDB · Redis · Socket.io · Docker
-- ⚡ Adaptive Redis-backed rate limiting (token bucket) & automated DDoS protection
-- 🔁 Three-state circuit breaker (CLOSED / OPEN / HALF-OPEN) with weighted round-robin load balancing
-- 🤖 ML anomaly detection via **Linear Regression** to flag suspicious traffic patterns
-- 📊 Real-time React dashboard with **Socket.io** WebSocket streaming for live traffic & alerts
-- 🔐 JWT sessions, SHA-256-hashed API keys, Helmet.js, CORS, and role-based admin access
+- **Stack:** Django · Next.js 16 (React 19) · PostgreSQL (pgvector) · Ollama
+- 📚 Offline codebase Q&A engine supporting repositories with **10,000+ files**
+- 🔗 Hybrid retrieval combining **HNSW vector search** & full-text search, fused via **Reciprocal Rank Fusion (RRF)** and Cross-Encoder reranking — cutting irrelevant results by **~35%**
+- ⚙️ Incremental ingestion pipeline with SHA-256 deduplication & checkpoint-resume, reducing re-indexing time by **60%+**
+- 📊 Telemetry console for execution latency & retrieval quality, plus a staleness tracker for code-to-doc knowledge drift
 
 </td>
 <td width="50%">
 
+### 🛡️ Gatekeeper — Intelligent Adaptive API Gateway
+> Self-healing API gateway with ML-based anomaly detection
+
+- **Stack:** Node.js · Express · React · MongoDB · Redis · Socket.io · Docker
+- ⚡ Sustained **5,000+ requests/min** during load testing
+- 🔁 Redis-backed token bucket rate limiting, three-state circuit breaking, automated DDoS protection with route-level thresholds
+- ⚖️ Weighted round-robin load balancing, health monitoring, automatic failover & W3C-compatible distributed tracing
+- 📊 Real-time React dashboard with Socket.io WebSocket streaming for live traffic & alerts
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+
 ### 💪 Fitoholic — AI-Powered Fitness Tracker
-> Production-ready fitness tracking web app built for Indian users
+> Full-stack fitness tracking web app built for Indian users
 
 - **Stack:** Spring Boot (Java 21) · React 18 · Tailwind CSS · MySQL 8
-- 🔐 JWT authentication with password reset, premium access gating & role-based admin control
-- 💳 **Razorpay API** integration for seamless one-time payments
-- 🤖 "Fitto" — AI fitness advisor powered by **Google Gemini API**
-- 📊 Real-time tracking of Steps, Calories, Water Intake & Weight with Framer Motion charts
-- 🛡️ Admin dashboard with user monitoring, stats overview & read-only fitness log access
+- 🔐 Spring Security 6 & JWT authentication with premium access gating and role-based admin control
+- 💳 **Razorpay API** integration for seamless payment processing
+- 🤖 AI-powered fitness recommendations via **Google Gemini API**
+- 📊 Real-time tracking of steps, calories, water intake & weight with Framer Motion visualizations
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -73,20 +91,28 @@
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_18%2F19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ### Databases & ORMs
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### AI & ML
+![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+*Vector Search · Reciprocal Rank Fusion (RRF) · Cross-Encoder Reranking · HNSW*
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -99,6 +125,7 @@
 ### API Integrations
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -113,7 +140,7 @@
 |--------|------------|------|-------|
 | **MCA** | Christ University, Bangalore | 2025 – 2027 | *Pursuing* |
 | **BCA** | Techno Main Salt Lake, Kolkata | 2022 – 2025 | 7.8 CGPA |
-| **Commerce (12th)** | South Point High School, Kolkata | 2006 – 2022 | 86% |
+| **Higher Secondary (Commerce)** | South Point High School, Kolkata | 2022 | 86% |
 
 ---
 
