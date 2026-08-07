@@ -15,11 +15,11 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)  
-🎯 Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**  
-🔭 Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**  
-🌱 Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems  
-🤝 Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects  
+🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)
+🎯 Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**
+🔭 Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**
+🌱 Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems
+🤝 Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects
 🌐 Portfolio: [sounakdev.netlify.app](https://sounakdev.netlify.app/)
 
 ---
@@ -55,14 +55,15 @@
 </tr>
 </table>
 
-### 💪 Fitoholic — AI-Powered Fitness Tracker
-> Full-stack fitness tracking web app built for Indian users
+### 💪 Fitoholic 2.0 — AI-Powered Fitness Platform
+> Full-stack fitness platform rebuilt with a bespoke glassmorphic dark-mode design system
 
-- **Stack:** Spring Boot (Java 21) · React 18 · Tailwind CSS · MySQL 8
-- 🔐 Spring Security 6 & JWT authentication with premium access gating and role-based admin control
-- 💳 **Razorpay API** integration for seamless payment processing
-- 🤖 AI-powered fitness recommendations via **Google Gemini API**
-- 📊 Real-time tracking of steps, calories, water intake & weight with Framer Motion visualizations
+- **Stack:** Next.js 16 (TypeScript) · Prisma ORM · NextAuth.js · PostgreSQL · Zustand · Framer Motion · Google Gemini API · Razorpay · Recharts
+- 🔐 NextAuth.js authentication backed by PostgreSQL via Prisma ORM
+- 📶 Offline-tolerant live workout tracker built with Zustand and persisted local state, surviving network drops and reloads, with real-time rest timers
+- 🤖 Google Gemini API generates personalized 7-day AI training protocols, wired into the live tracker via prompt injection for one-click session launch
+- 🍛 Digitized the Indian Nutrient Databank (ICMR-NIN IFCT) for **1,000+ regional recipes**
+- 💳 Razorpay subscriptions integrated with Recharts-based analytics dashboards
 
 ---
 
@@ -73,20 +74,23 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React_18%2F19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-black?style=for-the-badge&logo=auth0&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -94,6 +98,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### AI & ML
