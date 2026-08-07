@@ -13,57 +13,62 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-🎓 Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)
-🎯 Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**
-🔭 Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**
-🌱 Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems
-🤝 Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects
-🌐 Portfolio: [sounakdev.netlify.app](https://sounakdev.netlify.app/)
+ Pursuing **MCA** at **Christ University, Bangalore** (2025–2027)
+
+ Detail-oriented developer with strong foundations in **software engineering**, **backend development**, and **scalable systems**
+ 
+ Currently building **RAG-powered search systems**, **distributed backend infrastructure**, and **full-stack AI applications**
+ 
+ Exploring **RAG**, **Vector Search**, **Machine Learning**, and real-time distributed systems
+ 
+ Open to collaborating on **AI/RAG**, **backend engineering**, and **distributed systems** projects
+
+ Portfolio: [sounakdev.netlify.app](https://sounakdev.netlify.app/)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔍 RepoSage — Scale-Safe Repository Intelligence System
+###  RepoSage — Scale-Safe Repository Intelligence System
 > Private, offline codebase Q&A search engine for large repositories
 
 - **Stack:** Django · Next.js 16 (React 19) · PostgreSQL (pgvector) · Ollama
-- 📚 Offline codebase Q&A engine supporting repositories with **10,000+ files**
-- 🔗 Hybrid retrieval combining **HNSW vector search** & full-text search, fused via **Reciprocal Rank Fusion (RRF)** and Cross-Encoder reranking — cutting irrelevant results by **~35%**
-- ⚙️ Incremental ingestion pipeline with SHA-256 deduplication & checkpoint-resume, reducing re-indexing time by **60%+**
-- 📊 Telemetry console for execution latency & retrieval quality, plus a staleness tracker for code-to-doc knowledge drift
+-  Offline codebase Q&A engine supporting repositories with **10,000+ files**
+-  Hybrid retrieval combining **HNSW vector search** & full-text search, fused via **Reciprocal Rank Fusion (RRF)** and Cross-Encoder reranking — cutting irrelevant results by **~35%**
+-  Incremental ingestion pipeline with SHA-256 deduplication & checkpoint-resume, reducing re-indexing time by **60%+**
+-  Telemetry console for execution latency & retrieval quality, plus a staleness tracker for code-to-doc knowledge drift
 
 </td>
 <td width="50%">
 
-### 🛡️ Gatekeeper — Intelligent Adaptive API Gateway
+###  Gatekeeper — Intelligent Adaptive API Gateway
 > Self-healing API gateway with ML-based anomaly detection
 
 - **Stack:** Node.js · Express · React · MongoDB · Redis · Socket.io · Docker
-- ⚡ Sustained **5,000+ requests/min** during load testing
-- 🔁 Redis-backed token bucket rate limiting, three-state circuit breaking, automated DDoS protection with route-level thresholds
-- ⚖️ Weighted round-robin load balancing, health monitoring, automatic failover & W3C-compatible distributed tracing
-- 📊 Real-time React dashboard with Socket.io WebSocket streaming for live traffic & alerts
+-  Sustained **5,000+ requests/min** during load testing
+-  Redis-backed token bucket rate limiting, three-state circuit breaking, automated DDoS protection with route-level thresholds
+-  Weighted round-robin load balancing, health monitoring, automatic failover & W3C-compatible distributed tracing
+-  Real-time React dashboard with Socket.io WebSocket streaming for live traffic & alerts
 
 </td>
 </tr>
 </table>
 
-### 💪 Fitoholic 2.0 — AI-Powered Fitness Platform
+###  Fitoholic 2.0 — AI-Powered Fitness Platform
 > Full-stack fitness platform rebuilt with a bespoke glassmorphic dark-mode design system
 
 - **Stack:** Next.js 16 (TypeScript) · Prisma ORM · NextAuth.js · PostgreSQL · Zustand · Framer Motion · Google Gemini API · Razorpay · Recharts
-- 🔐 NextAuth.js authentication backed by PostgreSQL via Prisma ORM
-- 📶 Offline-tolerant live workout tracker built with Zustand and persisted local state, surviving network drops and reloads, with real-time rest timers
-- 🤖 Google Gemini API generates personalized 7-day AI training protocols, wired into the live tracker via prompt injection for one-click session launch
-- 🍛 Digitized the Indian Nutrient Databank (ICMR-NIN IFCT) for **1,000+ regional recipes**
-- 💳 Razorpay subscriptions integrated with Recharts-based analytics dashboards
+-  NextAuth.js authentication backed by PostgreSQL via Prisma ORM
+-  Offline-tolerant live workout tracker built with Zustand and persisted local state, surviving network drops and reloads, with real-time rest timers
+-  Google Gemini API generates personalized 7-day AI training protocols, wired into the live tracker via prompt injection for one-click session launch
+-  Digitized the Indian Nutrient Databank (ICMR-NIN IFCT) for **1,000+ regional recipes**
+-  Razorpay subscriptions integrated with Recharts-based analytics dashboards
 
 ---
 
@@ -135,28 +140,6 @@
 | **MCA** | Christ University, Bangalore | 2025 – 2027 | *Pursuing* |
 | **BCA** | Techno Main Salt Lake, Kolkata | 2022 – 2025 | 7.8 CGPA |
 | **Higher Secondary (Commerce)** | South Point High School, Kolkata | 2022 | 86% |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=krypton-arch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krypton-arch&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-arch&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
-
-</div>
-
----
-
-### ✍️ Random Dev Quote
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 ---
 
